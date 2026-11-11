@@ -45,22 +45,6 @@ I am continuously adding new solutions as I solve more problems.
 - Currently strengthening my DSA fundamentals.
 - Focusing on understanding approaches, time complexity, and space complexity.
 
-## 📂 Repository Structure
-
-Solutions are organized according to the topics and problem categories being practiced.
-
-```text
-leetcode/
-│
-├── Arrays/
-├── BinarySearch/
-├── LinkedList/
-├── Strings/
-├── Sorting/
-├── TwoPointers/
-└── README.md
-```
-
 *Folder structure is illustrative; actual folders may differ.*
 
 ## 🎯 My Learning Approach
